@@ -5,15 +5,7 @@ Agent skills for analyzing FastAPI routes and completing API documentation.
 ## Installation
 
 ```bash
-npx skills add github:leechael/fastapi-api-docs-skills
-```
-
-Or add to your agent configuration:
-
-```json
-{
-  "skills": ["github:leechael/fastapi-api-docs-skills"]
-}
+npx skills add leechael/fastapi-api-docs-skills
 ```
 
 ## Skills
